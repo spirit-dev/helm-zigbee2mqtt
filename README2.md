@@ -38,7 +38,7 @@ The installation should be done in two steps:
 >
 > > To work properly, the Sonoff Dongle must be flashed with a `coordinator` version
 >
-> > Currently flashed with: <https://github.com/darkxst/silabs-firmware-builder/blob/main/firmware_builds/zbdonglee/ncp-uart-hw-v7.4.4.0-zbdonglee-115200.gbl>
+> > Currently flashed with: https://github.com/darkxst/silabs-firmware-builder/blob/main/firmware_builds/zbdonglee/ncp-uart-hw-v7.4.4.0-zbdonglee-115200.gbl
 
 - [Frimware list](https://github.com/darkxst/silabs-firmware-builder/blob/main/firmware_builds/zbdonglee)
 - [Firmware list 2 (deprecated)](https://github.com/itead/Sonoff_Zigbee_Dongle_Firmware/tree/master/Dongle-E/NCP_7.4.4)
