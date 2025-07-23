@@ -261,6 +261,6 @@ zigbee2mqtt:
             pathType: ImplementationSpecific
     # -- configuration for tls service (ig any)
     tls:
-      - secretName: some-tls-secret
+      - secretName: some-tls-secret # pragma: allowlist secret
         hosts:
           - yourdomain.com
