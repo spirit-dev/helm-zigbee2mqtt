@@ -16,7 +16,7 @@ type: application
 version: "2.2.1"
 
 # renovate: datasource=github-releases depName=Koenkk/zigbee2mqtt
-appVersion: "2.2.1"
+appVersion: 2.6.1
 
 keywords:
   - zigbee
