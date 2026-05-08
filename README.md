@@ -1,8 +1,6 @@
 # zigbee2mqtt
 
-[![GitLab Sync](https://img.shields.io/badge/gitlab_sync-zigbee2mqtt-blue?style=for-the-badge&logo=gitlab)](https://gitlab-internal.spirit-dev.net/github-mirror/helm-zigbee2mqtt) <!-- markdownlint-disable MD041 -->
-[![GitHub Mirror](https://img.shields.io/badge/github_mirror-zigbee2mqtt-blue?style=for-the-badge&logo=github)](https://github.com/spirit-dev/helm-zigbee2mqtt)
-[![App Status](https://argocd-internal.spirit-dev.net/api/badge?name=zigbee2mqtt-turingpi&revision=true&showAppName=true)](https://argocd-internal.spirit-dev.net/applications/zigbee2mqtt-turingpi)
+
 
 <!--TOC-->
 
@@ -47,4 +45,4 @@ The installation should be done in two steps:
 
 > Blog installation
 
-- [Installation using ser2sock](https://nikdoof.com/posts/2021/zigbee2mqtt-on-kubernetes/)
+- [Installation using ser2sock](https://nikdoof.com/posts/2021/zigbee2mqtt-on-kubernetes/
